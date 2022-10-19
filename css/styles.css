@@ -127,7 +127,9 @@ body {
 }
 
 /*-----------our team-----------*/
-
+.section-team {
+  background-color: #f5f4fa;
+}
 .team-name {
   font-weight: 500;
   font-size: 16px;
